@@ -1,0 +1,61 @@
+body {
+	font-size: 150%
+}
+
+
+h1 {
+	background-color: silver
+}
+
+
+pre {
+	color:yellow; 
+	font-family: monotype corsiva;
+	font-size:120%; text-align:right
+	border: 2px solid blue;
+	padding: 25px; 
+	margin: 44px
+}
+
+#paragr {
+	color: orange
+}
+
+.abc {
+	background-color:green;
+}
+
+h4 {
+	border: 3px solid DodgerBlue;
+	background-color: #FFD700;
+	color: rgb(255, 0, 0);
+}
+
+#bbb {
+	color: green;
+	background-color: #000000;
+}
+
+a:link {
+	color: white;
+	background-color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	background-color: green;
+	text-decoration: underline;
+}
+
+a:active {
+	color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.Picture {
+	float:right;
+	width: 245px;
+	height: 130px;
+}
